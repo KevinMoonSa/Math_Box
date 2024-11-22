@@ -7,3 +7,6 @@ def subtract(a,b)
 
 def multiply(a,b)   
      return a*b #test
+
+def divide(a,b)     
+     return a/b
